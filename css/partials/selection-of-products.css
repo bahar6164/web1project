@@ -1,0 +1,111 @@
+.selection-of-products{
+    width: 100%;
+    height: 794px;
+    margin-bottom: 20px;
+    justify-content: center;
+    display: flex;
+    .selection-of-products-center {
+        width: 90%;
+        height: 100%;
+        border: 1px solid #f2f2f1;
+        border-radius: 20px; 
+    
+        .selection-of-products-title{
+            width: 100%;
+            height: 70px;
+            justify-content: center;
+            text-align: center;
+            font-family: var(--fontFamily);
+            font-size: 14px;
+            .flex2item{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+                width: 100%;
+                height: 100%;
+                h2{
+                padding-right: 10px;
+                }
+            }
+        }
+        .selection-of-products-item{
+            width: fit-content;
+            height:fit-content;
+            display: flex;
+            flex-flow:row wrap;
+            .selection-of-products-item-link{
+                text-decoration: none;
+                padding-top:10px ;
+                width: 16.66%;
+                height: 241px;
+                display: flex; /* فعال کردن فلکس‌باکس */
+                flex-direction: column; /* اگر محتوای داخل نیاز به قرارگیری عمودی دارند */
+                justify-content: center; /* مرکز کردن به صورت عمودی */
+                align-items: center; /* مرکز کردن به صورت افقی */
+            }
+                .selection-of-products-item-image{
+                width: 170px;
+                height:170px;
+
+                img{   
+                    width: 150px;
+                    height:150px;
+               }
+            }
+                .selection-of-products-item-discount{
+                    width: 50px;
+                    height: 20px;
+                    border-radius: 20px;
+                    background-color:#d32f2f;
+                    justify-content: center;
+                    text-align: center;
+                    font-family: var(--fontNumber);
+                    font-size: 18px;
+                    color: white;
+
+                   
+                    
+                }
+                .selection-of-products-item-befordiscount{
+                    width: 170px;
+                    justify-content: center;
+                    text-align: center;
+                    margin-right: 40px;
+                    font-family: var(--fontNumber);
+                    font-size: 18px;
+                    color: #c0c2c5;
+                    
+                    text-decoration: line-through;
+
+                }
+                .selection-of-products-item-afterdiscount{
+                    width: 150px;
+                    justify-content: center;
+                    text-align: left;
+                    font-family: var(--fontNumber);
+                    font-size: 18px;
+                    color: #3f4064;
+                }
+            }
+
+        }
+    }
+    span{
+        width: 170px;
+        display: flex;
+        
+    }
+
+    .selection-of-products-rborder{
+        border-right: 1px solid #f2f2f1;
+    }
+    .selection-of-products-lborder{
+        border-left: 1px solid #f2f2f1;
+    }
+    .selection-of-products-tborder{
+        border-top: 1px solid #f2f2f1;
+    }
+    .selection-of-products-bborder{
+        border-bottom: 1px solid #f2f2f1;
+    }

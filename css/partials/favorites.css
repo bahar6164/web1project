@@ -1,0 +1,110 @@
+.favorites {
+  width: 100%;
+  height: 400px;
+  margin: 50px 0;
+  display: flex;
+  justify-content: center;
+  .favorites-center {
+    width: 90%;
+    height: inherit;
+    border: 1px solid lightgrey;
+    border-radius: 15px;
+    padding: 10px;
+    .favorites__center__top {
+      width: 100%;
+      height: 70px;
+      .favorites__center__top__item {
+        width: 60%;
+        height: inherit;
+        margin-right: auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-left: 10px;
+        h2 {
+          font-family: var(--fontFamily);
+          font-size: 20px;
+          color: #2b2b2b;
+          padding-right: 15px;
+        }
+        a {
+          text-decoration: none;
+          p {
+            font-family: var(--fontFamily);
+            color:#19bfd3;
+            font-size: 16px;
+          }
+        }
+        .favoritesflex2item{
+
+          width: fit-content;
+          display: flex;
+          
+        }
+      }
+    }
+    .favorites__center__bottom {
+      width: 100%;
+      height: calc(100% - 70px);
+
+      .swiper {
+        width: 100%;
+        height: 100%;
+      }
+
+      .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .swiper-slide-item{
+            width: 100%;
+            height: 100%;
+            .swiper-slide-item-product{
+                width: 100%;
+                height: 33%;
+                display: flex;
+                flex-flow: row wrap;
+                align-items: center;
+                justify-content: space-between;
+                img{
+                    width: 86px;
+                    height: 86px;
+                }
+                h2{
+                    font-family: var(--fontNumber);
+                    color: #19bfd3;
+                    font-size: 40px;
+                  
+                }
+                p{
+                    font-family: var(--fontFamily);
+                    font-size: 12px;
+                    padding-left: 20px;
+                    display: -webkit-box;
+                    -webkit-box-orient: vertical;
+                    -webkit-line-clamp: 2;
+                    overflow: hidden;
+                    width: 60%;
+                }
+            }
+        }
+      }
+
+      .swiper-slide img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+  }
+}
+.divider{
+    width: 60%;
+    height: 1px;
+    background-color: rgb(236, 231, 231);
+    margin-right: auto;
+}

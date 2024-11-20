@@ -1,0 +1,219 @@
+
+        /* Background style modal*/
+ .modal-background {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 9999;
+            background-color: rgba(0, 0, 0, 0.1); /* پس‌زمینه نیمه‌شفاف */
+            justify-content: center;
+            align-items: center;
+        }
+
+        /* استایل برای محتوای مودال */
+.modal-content {
+            width: 480px;
+            height: 580px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+}
+        .modal-content-top{  
+                width: 100%;
+                height: 50px;
+                display: flex;
+                border-bottom:  #e9e9e9  solid;
+                .modal-content-top-right{
+                width: 50%;
+                height: 100%;
+                display: flex;
+                box-sizing: border-box;
+                padding: 10px;
+                font-size: 12px;
+                font-family: var(--fontFamily);
+                color: #0c0c0c;
+                }
+                .modal-content-top-left{
+                    width: 50%;
+                    height: 100%;
+                    display: flex;
+                    justify-content: flex-end;
+                    box-sizing: border-box;
+                    padding: 8px 16px;
+                    color: #424750;
+                    cursor: pointer;
+                }
+        }   
+        .modal-content-body{
+            width:98%;
+            height: 530px;
+            max-height: 530px;
+            background-color: white;
+            .modal-content-search{
+                    width: 100%;
+                    height:58px;
+                    display: inline-block;
+                    align-items: center;
+                    padding:10px;
+                    [type="text"]{
+                        width: 100%;
+                        height: 100%;
+                        background-color: #F0F0F1;
+                        outline: none;
+                        border: none;
+                        border-radius: 20px;
+                        padding-right: 40px;
+                    
+                        &::placeholder{
+                            font-family: var(--fontFamily);
+                            font-size: 12px;
+                            color: #81858b;
+                }
+            }
+        }
+            .modal-content-massage{
+                width: 100%;
+                height: 30px;
+                display: inline-block;
+                align-content: center;
+                padding:10px;
+                font-family: var(--fontFamily);
+                font-style: normal;
+                font-weight: normal;
+                font-size: 14px;
+                color: #3f4064;
+                text-decoration:none;
+            }
+            .Frequent-cities-title{
+                width: 100%;
+                height: 30px;
+                display: inline-block;
+                align-items:start;
+                margin-top:20px;
+                align-content: center;
+                padding:10px;
+                font-family: var(--fontFamily);
+                font-size: 15px;
+                color:#3f4064;
+                
+            }
+        }
+
+        /* نمایش مودال وقتی چک‌باکس فعال است */
+        #modal-checkbox:checked ~ .modal-background {
+            display: flex;
+        }
+        .Frequent-cities11{
+            width: 100%;
+            height: 50px;
+            display: flex;
+            margin-top: 10px;
+            justify-content: center;
+            padding: 10px;
+            font-family: var(--fontFamily);
+            .Frequent-cities-center{
+                width: 100%;
+                height: inherit;
+         
+                
+                .swiper {
+                    width: 100%;
+                    height: 100%;
+                  }
+                .swiper-slide {
+                    
+                            text-align: center;
+                            font-size: 18px;
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            
+            
+                    }
+                  .swiper-slider-item{
+                    width: 82px;
+                    height: 40px;
+                    box-sizing: border-box;
+                    border: 0.8px #e0e0e2 solid;
+                    border-radius: 50px;
+                    padding-top: 7px;
+                    text-align: center;
+                    align-content: center;
+                   display: flex;
+                    }
+                    .swiper-slider-item-text{ 
+                        width: 70%;
+                        height: 100%;
+                        padding-right: 10px;
+                        h6{width: 100%;
+                        font-family: var(--fontFamily);
+                        font-size: 13px;
+                        align-content: center;
+                    }}
+                    .swiper-slider-item-svg{     
+                        width: 70%;
+                        height: 100%; }
+          
+                }
+            }
+        .cities{
+            width: 480px;
+            height:360px;
+            max-height: 360px;
+            
+            .cities-item{
+                width: 95%;
+                height: 50px;
+                display: flex;
+                box-sizing: border-box;
+                border-bottom: 0.9px solid #f0f0f1;
+                padding-right: 10px;
+                align-content: center;
+                .cities-item-right{
+                    width: 70%;
+                    height: 100%;
+                    display: flex;
+                    padding: 20px;
+        
+                    align-content: center;
+                    a{
+                        text-decoration: none;
+                        color: #525256;
+                    }
+                    .cities-item-right-city{
+                        font-family: var(--fontFamily);
+                        font-size: 14px;
+                        color:black
+        
+                    }
+                    .cities-item-right-state{
+                        font-family: var(--fontFamily);
+                        font-size: 14px;
+                        color: #81858b
+        
+                    }
+                }
+                .cities-item-left{
+                    width: 30%;
+                    height: 100%;
+                    display: flex;
+                    justify-content: flex-end;
+                    padding-top: 20px;
+                    padding-left: 20px;
+                    align-content: center;
+        
+                    
+                }
+            }
+        
+        }
+        .scrollable {
+            overflow-y: auto;
+            overflow-x: hidden;
+            max-height:500px; /* ارتفاع کانتینر منهای ارتفاع آیتم اول و فاصله‌ها */
+        }
+       

@@ -1,0 +1,799 @@
+!--end header-->
+       <!--story-->
+       <div class="story">
+        <div class="story-center">
+          <!-- Swiper -->
+          <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <div class="swiper-slider-item">
+                  <img src="./images/story/image-1.jpg" alt="" />
+                  <h6>قهوه خوری نئوکلاسیک</h6>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slider-item">
+                  <img src="./images/story/image-2.jpg" alt="" />
+                  <h6>کباب‌پز راف؛</h6>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slider-item">
+                  <img src="./images/story/image-3.jpg" alt="" />
+                  <h6>عجیب ترین شارژر دیجی‌کالا</h6>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slider-item">
+                  <img src="./images/story/image-1.jpg" alt="" />
+                  <h6>قهوه خوری نئوکلاسیک</h6>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slider-item">
+                  <img src="./images/story/image-2.jpg" alt="" />
+                  <h6>کباب‌پز راف؛</h6>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slider-item">
+                  <img src="./images/story/image-3.jpg" alt="" />
+                  <h6>عجیب ترین شارژر دیجی‌کالا</h6>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slider-item">
+                  <img src="./images/story/image-1.jpg" alt="" />
+                  <h6>قهوه خوری نئوکلاسیک</h6>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slider-item">
+                  <img src="./images/story/image-2.jpg" alt="" />
+                  <h6>کباب‌پز راف؛</h6>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slider-item">
+                  <img src="./images/story/image-3.jpg" alt="" />
+                  <h6>عجیب ترین شارژر دیجی‌کالا</h6>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slider-item">
+                  <img src="./images/story/image-1.jpg" alt="" />
+                  <h6>قهوه خوری نئوکلاسیک</h6>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slider-item">
+                  <img src="./images/story/image-2.jpg" alt="" />
+                  <h6>کباب‌پز راف؛</h6>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slider-item">
+                  <img src="./images/story/image-3.jpg" alt="" />
+                  <h6>عجیب ترین شارژر دیجی‌کالا</h6>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slider-item">
+                  <img src="./images/story/image-1.jpg" alt="" />
+                  <h6>قهوه خوری نئوکلاسیک</h6>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slider-item">
+                  <img src="./images/story/image-2.jpg" alt="" />
+                  <h6>کباب‌پز راف؛</h6>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slider-item">
+                  <img src="./images/story/image-3.jpg" alt="" />
+                  <h6>عجیب ترین شارژر دیجی‌کالا</h6>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slider-item">
+                  <img src="./images/story/image-1.jpg" alt="" />
+                  <h6>قهوه خوری نئوکلاسیک</h6>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slider-item">
+                  <img src="./images/story/image-2.jpg" alt="" />
+                  <h6>کباب‌پز راف؛</h6>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slider-item">
+                  <img src="./images/story/image-3.jpg" alt="" />
+                  <h6>عجیب ترین شارژر دیجی‌کالا</h6>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+          </div>
+        </div>
+      </div>
+      <!--end story-->
+      <!--slider-->
+      <div class="slider">
+        <!-- Swiper -->
+        <div class="swiper mySlider">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <img src="./images/slider/image-1.webp" alt="" />
+            </div>
+            <div class="swiper-slide">
+              <img src="./images/slider/image-2.webp" alt="" />
+            </div>
+            <div class="swiper-slide">
+              <img src="./images/slider/image-3.webp" alt="" />
+            </div>
+          </div>
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+          <div class="swiper-pagination"></div>
+        </div>
+      </div>
+      <!--end slider-->
+      <!--category-->
+      <div class="category">
+        <div class="category-center">
+          <div class="category-center-item">
+            <img src="./images/category/image-1.png" alt="" />
+            <h6>سوپر مارکت فوری</h6>
+          </div>
+          <div class="category-center-item">
+            <img src="./images/category/image-2.png" alt="" />
+            <h6>دریافت وام</h6>
+          </div>
+          <div class="category-center-item">
+            <img src="./images/category/image-1.png" alt="" />
+            <h6>سوپر مارکت فوری</h6>
+          </div>
+          <div class="category-center-item">
+            <img src="./images/category/image-2.png" alt="" />
+            <h6>دریافت وام</h6>
+          </div>
+          <div class="category-center-item">
+            <img src="./images/category/image-1.png" alt="" />
+            <h6>سوپر مارکت فوری</h6>
+          </div>
+          <div class="category-center-item">
+            <img src="./images/category/image-2.png" alt="" />
+            <h6>دریافت وام</h6>
+          </div>
+          <div class="category-center-item">
+            <img src="./images/category/image-1.png" alt="" />
+            <h6>سوپر مارکت فوری</h6>
+          </div>
+          <div class="category-center-item">
+            <img src="./images/category/image-2.png" alt="" />
+            <h6>دریافت وام</h6>
+          </div>
+          <div class="category-center-item">
+            <img src="./images/category/image-1.png" alt="" />
+            <h6>سوپر مارکت فوری</h6>
+          </div>
+
+          <div class="category-center-item">
+            <div class="moreItem">
+              <div></div>
+              <div></div>
+              <div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--end category-->
+      <!--amazing-->
+      <div class="amazing">
+        <div class="amazing-center">
+          <!-- Swiper -->
+          <div class="swiper myAmazing">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide transparent">
+                <div class="swiper-slide-item">
+                  <img class="img-1" src="./images/svg/amazing.svg" alt="" />
+                  <div class="clock">
+                    <div class="hours">01</div>
+                    <div class="colon">:</div>
+                    <div class="minutes">58</div>
+                    <div class="colon">:</div>
+                    <div class="second">40</div>
+                  </div>
+                  <img src="./images/svg/smile.svg" class="img-2" alt="" />
+                  <div class="swiper-slide-item-observe">
+                    <a href="#">
+                      مشاهده همه
+                      <img src="./images/svg/arrow-left-new.svg" alt="" />
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide radiusAmazing">
+                <div class="swiper-slide-item-product">
+                  <img
+                    src="./images/amazing/image-1.webp"
+                    class="amazing-image"
+                    alt=""
+                  />
+                  <h6>
+                    گوشی موبایل اپل مدل iPhone 13 Pro ZAA تک سیم‌ کارت ظرفیت 512
+                    گیگابایت و رم 6 گیگابایت - نات اکتیو ریفربیش پارت نامبر F
+                  </h6>
+                  <div class="price">
+                    <div>۹۶,۰۹۹,۰۰۰</div>
+                    <div class="price-discount">3%</div>
+                  </div>
+                  <div class="discount">۹۸,۶۵۰,۰۰۰</div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slide-item-product">
+                  <img
+                    src="./images/amazing/image-2.webp"
+                    class="amazing-image"
+                    alt=""
+                  />
+                  <h6>
+                    گوشی موبایل اپل مدل iPhone 13 Pro ZAA تک سیم‌ کارت ظرفیت 512
+                    گیگابایت و رم 6 گیگابایت - نات اکتیو ریفربیش پارت نامبر F
+                  </h6>
+                  <div class="price">
+                    <div>۹۶,۰۹۹,۰۰۰</div>
+                    <div class="price-discount">3%</div>
+                  </div>
+                  <div class="discount">۹۸,۶۵۰,۰۰۰</div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slide-item-product">
+                  <img
+                    src="./images/amazing/image-1.webp"
+                    class="amazing-image"
+                    alt=""
+                  />
+                  <h6>
+                    گوشی موبایل اپل مدل iPhone 13 Pro ZAA تک سیم‌ کارت ظرفیت 512
+                    گیگابایت و رم 6 گیگابایت - نات اکتیو ریفربیش پارت نامبر F
+                  </h6>
+                  <div class="price">
+                    <div>۹۶,۰۹۹,۰۰۰</div>
+                    <div class="price-discount">3%</div>
+                  </div>
+                  <div class="discount">۹۸,۶۵۰,۰۰۰</div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slide-item-product">
+                  <img
+                    src="./images/amazing/image-2.webp"
+                    class="amazing-image"
+                    alt=""
+                  />
+                  <h6>
+                    گوشی موبایل اپل مدل iPhone 13 Pro ZAA تک سیم‌ کارت ظرفیت 512
+                    گیگابایت و رم 6 گیگابایت - نات اکتیو ریفربیش پارت نامبر F
+                  </h6>
+                  <div class="price">
+                    <div>۹۶,۰۹۹,۰۰۰</div>
+                    <div class="price-discount">3%</div>
+                  </div>
+                  <div class="discount">۹۸,۶۵۰,۰۰۰</div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slide-item-product">
+                  <img
+                    src="./images/amazing/image-1.webp"
+                    class="amazing-image"
+                    alt=""
+                  />
+                  <h6>
+                    گوشی موبایل اپل مدل iPhone 13 Pro ZAA تک سیم‌ کارت ظرفیت 512
+                    گیگابایت و رم 6 گیگابایت - نات اکتیو ریفربیش پارت نامبر F
+                  </h6>
+                  <div class="price">
+                    <div>۹۶,۰۹۹,۰۰۰</div>
+                    <div class="price-discount">3%</div>
+                  </div>
+                  <div class="discount">۹۸,۶۵۰,۰۰۰</div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slide-item-product">
+                  <img
+                    src="./images/amazing/image-2.webp"
+                    class="amazing-image"
+                    alt=""
+                  />
+                  <h6>
+                    گوشی موبایل اپل مدل iPhone 13 Pro ZAA تک سیم‌ کارت ظرفیت 512
+                    گیگابایت و رم 6 گیگابایت - نات اکتیو ریفربیش پارت نامبر F
+                  </h6>
+                  <div class="price">
+                    <div>۹۶,۰۹۹,۰۰۰</div>
+                    <div class="price-discount">3%</div>
+                  </div>
+                  <div class="discount">۹۸,۶۵۰,۰۰۰</div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slide-item-product">
+                  <img
+                    src="./images/amazing/image-1.webp"
+                    class="amazing-image"
+                    alt=""
+                  />
+                  <h6>
+                    گوشی موبایل اپل مدل iPhone 13 Pro ZAA تک سیم‌ کارت ظرفیت 512
+                    گیگابایت و رم 6 گیگابایت - نات اکتیو ریفربیش پارت نامبر F
+                  </h6>
+                  <div class="price">
+                    <div>۹۶,۰۹۹,۰۰۰</div>
+                    <div class="price-discount">3%</div>
+                  </div>
+                  <div class="discount">۹۸,۶۵۰,۰۰۰</div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slide-item-product">
+                  <img
+                    src="./images/amazing/image-2.webp"
+                    class="amazing-image"
+                    alt=""
+                  />
+                  <h6>
+                    گوشی موبایل اپل مدل iPhone 13 Pro ZAA تک سیم‌ کارت ظرفیت 512
+                    گیگابایت و رم 6 گیگابایت - نات اکتیو ریفربیش پارت نامبر F
+                  </h6>
+                  <div class="price">
+                    <div>۹۶,۰۹۹,۰۰۰</div>
+                    <div class="price-discount">3%</div>
+                  </div>
+                  <div class="discount">۹۸,۶۵۰,۰۰۰</div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slide-item-product">
+                  <img
+                    src="./images/amazing/image-1.webp"
+                    class="amazing-image"
+                    alt=""
+                  />
+                  <h6>
+                    گوشی موبایل اپل مدل iPhone 13 Pro ZAA تک سیم‌ کارت ظرفیت 512
+                    گیگابایت و رم 6 گیگابایت - نات اکتیو ریفربیش پارت نامبر F
+                  </h6>
+                  <div class="price">
+                    <div>۹۶,۰۹۹,۰۰۰</div>
+                    <div class="price-discount">3%</div>
+                  </div>
+                  <div class="discount">۹۸,۶۵۰,۰۰۰</div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slide-item-product">
+                  <img
+                    src="./images/amazing/image-2.webp"
+                    class="amazing-image"
+                    alt=""
+                  />
+                  <h6>
+                    گوشی موبایل اپل مدل iPhone 13 Pro ZAA تک سیم‌ کارت ظرفیت 512
+                    گیگابایت و رم 6 گیگابایت - نات اکتیو ریفربیش پارت نامبر F
+                  </h6>
+                  <div class="price">
+                    <div>۹۶,۰۹۹,۰۰۰</div>
+                    <div class="price-discount">3%</div>
+                  </div>
+                  <div class="discount">۹۸,۶۵۰,۰۰۰</div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slide-item-product">
+                  <img
+                    src="./images/amazing/image-1.webp"
+                    class="amazing-image"
+                    alt=""
+                  />
+                  <h6>
+                    گوشی موبایل اپل مدل iPhone 13 Pro ZAA تک سیم‌ کارت ظرفیت 512
+                    گیگابایت و رم 6 گیگابایت - نات اکتیو ریفربیش پارت نامبر F
+                  </h6>
+                  <div class="price">
+                    <div>۹۶,۰۹۹,۰۰۰</div>
+                    <div class="price-discount">3%</div>
+                  </div>
+                  <div class="discount">۹۸,۶۵۰,۰۰۰</div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="swiper-slide-item-product">
+                  <img
+                    src="./images/amazing/image-2.webp"
+                    class="amazing-image"
+                    alt=""
+                  />
+                  <h6>
+                    گوشی موبایل اپل مدل iPhone 13 Pro ZAA تک سیم‌ کارت ظرفیت 512
+                    گیگابایت و رم 6 گیگابایت - نات اکتیو ریفربیش پارت نامبر F
+                  </h6>
+                  <div class="price">
+                    <div>۹۶,۰۹۹,۰۰۰</div>
+                    <div class="price-discount">3%</div>
+                  </div>
+                  <div class="discount">۹۸,۶۵۰,۰۰۰</div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+          </div>
+        </div>
+      </div>
+      <!--end amazing-->
+      <!--supermarket-->
+      <div class="supermarket">
+        <div class="supermarket-center">
+          <a href="https://google.com" class="supermarket-center-link">
+            <div class="supermarket-center-link-right">
+              <img
+                src="./images/supermarket/fresh.png"
+                class="supermarket-center-img-1"
+                alt=""
+              />
+              <img
+                src="./images/svg/incredible.svg"
+                class="supermarket-center-img-2"
+                alt=""
+              />
+              <div class="supermarket-center-discount">تا 60% تخفیف</div>
+            </div>
+            <div class="supermarket-center-link-left">
+              <a href="" class="supermarket-left-link">
+                <div class="supermarket-left-link-circle">
+                  <img src="./images/supermarket/image-1.png" alt="" />
+                  <span>60%</span>
+                </div>
+              </a>
+            </div>
+            <div class="supermarket-center-link-left">
+              <a href="" class="supermarket-left-link">
+                <div class="supermarket-left-link-circle">
+                  <img src="./images/supermarket/image-1.png" alt="" />
+                  <span>60%</span>
+                </div>
+              </a>
+            </div>
+          </a>
+        </div>
+      </div>
+      <!--end supermarket-->
+      <!--digital-->
+      <div class="digital">
+        <div class="digital-center">
+          <div class="digital-center-item borderLess">
+            <div class="digital-center-item-top">
+              <h1>کیف و کاور گوشی</h1>
+              <h2>بر اساس سلیقه شما</h2>
+            </div>
+            <div class="digital-center-item-bottom">
+              <a href="#" class="borderBottom borderLeft"
+                ><img src="./images/digital/image-1.png" alt=""
+              /></a>
+              <a href="#" class="borderBottom"
+                ><img src="./images/digital/image-2.png" alt=""
+              /></a>
+              <a href="#" class="borderLeft"
+                ><img src="./images/digital/image-1.png" alt=""
+              /></a>
+              <a href="#"><img src="./images/digital/image-2.png" alt="" /></a>
+            </div>
+          </div>
+          <div class="digital-center-item borderLess">
+            <div class="digital-center-item-top">
+              <h1>کیف و کاور گوشی</h1>
+              <h2>بر اساس سلیقه شما</h2>
+            </div>
+            <div class="digital-center-item-bottom">
+              <a href="#" class="borderBottom borderLeft"
+                ><img src="./images/digital/image-1.png" alt=""
+              /></a>
+              <a href="#" class="borderBottom"
+                ><img src="./images/digital/image-2.png" alt=""
+              /></a>
+              <a href="#" class="borderLeft"
+                ><img src="./images/digital/image-1.png" alt=""
+              /></a>
+              <a href="#"><img src="./images/digital/image-2.png" alt="" /></a>
+            </div>
+          </div>
+          <div class="digital-center-item borderLess">
+            <div class="digital-center-item-top">
+              <h1>کیف و کاور گوشی</h1>
+              <h2>بر اساس سلیقه شما</h2>
+            </div>
+            <div class="digital-center-item-bottom">
+              <a href="#" class="borderBottom borderLeft"
+                ><img src="./images/digital/image-1.png" alt=""
+              /></a>
+              <a href="#" class="borderBottom"
+                ><img src="./images/digital/image-2.png" alt=""
+              /></a>
+              <a href="#" class="borderLeft"
+                ><img src="./images/digital/image-1.png" alt=""
+              /></a>
+              <a href="#"><img src="./images/digital/image-2.png" alt="" /></a>
+            </div>
+          </div>
+          <div class="digital-center-item borderLess">
+            <div class="digital-center-item-top">
+              <h1>کیف و کاور گوشی</h1>
+              <h2>بر اساس سلیقه شما</h2>
+            </div>
+            <div class="digital-center-item-bottom">
+              <a href="#" class="borderBottom borderLeft"
+                ><img src="./images/digital/image-1.png" alt=""
+              /></a>
+              <a href="#" class="borderBottom"
+                ><img src="./images/digital/image-2.png" alt=""
+              /></a>
+              <a href="#" class="borderLeft"
+                ><img src="./images/digital/image-1.png" alt=""
+              /></a>
+              <a href="#"><img src="./images/digital/image-2.png" alt="" /></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--end digital-->
+      <!--favorites-->
+      <div class="favorites">
+        <div class="favorites-center">
+          <div class="favorites__center__top">
+            <div class="favorites__center__top__item">
+              <h1>پرفروش‌ترین کالاها</h1>
+              <a href="#"><h2>مشاهده همه</h2></a>
+            </div>
+          </div>
+          <div class="favorites__center__bottom">
+            <!-- Swiper -->
+            <div class="swiper myFavorite">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <div class="swiper-slide-item">
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>1</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                    <div class="divider"></div>
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>2</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                    <div class="divider"></div>
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>3</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="swiper-slide-item">
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>1</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>2</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>3</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="swiper-slide-item">
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>1</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>2</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>3</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="swiper-slide-item">
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>1</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>2</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>3</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="swiper-slide-item">
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>1</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>2</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>3</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="swiper-slide-item">
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>1</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>2</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>3</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="swiper-slide-item">
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>1</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>2</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>3</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="swiper-slide-item">
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>1</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>2</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>3</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="swiper-slide-item">
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>1</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>2</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                    <div class="swiper-slide-item-product">
+                      <img src="./images/favorites/image-1.png" alt="" />
+                      <h2>3</h2>
+                      <p>پنیر سفید ایرانی پگاه - 400 گرم</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-button-next"></div>
+              <div class="swiper-button-prev"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--end favorites-->
+      <!--end amazing-->
+    </div>
+    <!--end project-->
+    <script src="./node_modules/swiper/swiper-bundle.min.js"></script>
+    <script>
+      var swiper = new Swiper(".mySwiper", {
+        slidesPerView: 12.5,
+        spaceBetween: 0,
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
+      });
+
+      var swiper = new Swiper(".mySlider", {
+        spaceBetween: 0,
+        centeredSlides: true,
+        autoplay: {
+          delay: 2500,
+          disableOnInteraction: false,
+        },
+        pagination: {
+          el: ".swiper-pagination",
+          clickable: true,
+        },
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
+      });
+
+      var swiper = new Swiper(".myAmazing", {
+        slidesPerView: 8.2,
+        spaceBetween: 2,
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
+      });
+
+      var swiper = new Swiper(".myFavorite", {
+        slidesPerView: 4,
+        spaceBetween: 1,
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
+      });
+    </script>

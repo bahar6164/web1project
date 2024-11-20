@@ -1,0 +1,163 @@
+.supermarket{
+    width: 100%;
+    height: 110px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+ 
+    .supermarket-center{
+        width: 90%;
+        height: inherit;
+        position: relative;
+        background-color: #f0f0f1;
+        border-radius: 15px;
+        .supermarket-center-link{
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-flow: row wrap;
+            text-decoration: none;
+            position: relative;
+            .supermarket-center-link-right{
+                width: 40%;
+                height: inherit;
+                display: flex;
+                flex-flow: row wrap;
+                justify-content: flex-start;
+                column-gap: 15px;
+                align-items: center;
+                padding-right: 30px;
+                .supermarket-center-img-1{
+                    width: 66px;
+                    height: 62px;
+                }
+                .supermarket-center-img-2{
+                    width: 250px;
+                    height: 28px;
+                }
+                .supermarket-center-discount{
+                    width: 110px;
+                    height: 30px;
+                    background-color: #2F9A45;
+                    text-align: center;
+                    font-family: var(--fontFamily);
+                    font-size: 14px;
+                    line-height: 30px;
+                    color: whitesmoke;    
+                    border-radius: 16px;
+                }
+            }
+            
+        }
+        .supermarket-center-link-center{
+            width: 55%;
+            height: 110px;
+            position: absolute;
+            left: 0;
+            top: 0;
+            z-index: 100;
+            display: flex;
+            flex-flow: row wrap;
+            align-items: center;
+            gap:10px;
+            padding: 0;
+            .supermarket-center-link{
+                display: block;
+                width: 74px;
+                height: 74px;
+                text-decoration: none;
+                .supermarket-center-link-circle{
+                    width: 100%;
+                    height: 100%;
+                    position: relative;
+                    img{
+                        border-radius: 50%;
+                        width: 100%;
+                        height: 100%;
+
+                    }
+                    .supermarket-center-link-discount{
+                        display: inline-block;
+                        width: 35px;    
+                        height: 20px;
+                        text-align: center;
+                        border-radius: 10px;
+                        background-color: crimson;
+                        font-family: var(--fontNumber);
+                        color: whitesmoke;
+                        position: absolute;
+                        bottom: -10px;
+                        right: 0px;
+                    }
+                }
+            }
+            .supermarket-left-link-ovel{
+                width: 145px;
+                height: 45px;
+                padding: 15px;
+                margin-top: 20px;
+                position: relative;
+                display: flex;
+                flex-flow:row wrap;
+                background-color: white;
+                border-radius: 20px;
+                .test1{
+                    width: 75%;
+                    height: 100%;
+                    display: flex;
+                    padding-top: 4px;
+                    justify-content: center;
+                    font-family: var(--fontFamily);
+                    font-size: 12px;
+                    text-decoration: none;
+                    color: green;
+                }
+                .test2{
+                    width: 25%;
+                    height: 100%;
+                    display: flex;
+                    justify-content: center;
+                                        
+                }
+            }
+        }
+    .supermarket-center-link-left{
+        width: 10%;
+        height: 110px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        z-index: 100;
+        display: flex;
+        flex-flow: row wrap;
+        align-items: center;
+        padding: 0;
+    .supermarket-left-link{
+        display: block;
+        width: 145px;
+        height: 40px;
+        margin-left: 15px;
+        padding: 20px,12px;
+        text-decoration: none;
+        .supermarket-left-link-ovel{
+            width: 100%;
+            height: 100%;
+            padding: 10px;
+            position: relative;
+            display: flex;
+            background-color: white;
+            border-radius: 10px;
+            h6{
+                display: flex;
+                text-align: center;
+                background-color: white;
+                font-family: var(--fontFamily);
+                color: green;
+                position: absolute;
+            }
+        }
+    
+    }
+    }
+}}
