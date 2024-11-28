@@ -1,0 +1,63 @@
+
+.supermarkt-sticky{
+    width: 100%;
+    height: 100%; 
+    .supermarkt-sticky-2item{
+        position: fixed;
+        bottom: 10px; /* فاصله از پایین */
+        left: 10px; /* فاصله از سمت چپ */
+        width: 210px; /* طول */
+        height: 50px; /* عرض */
+        background-color: green; /* رنگ سبز */
+        color: white; /* رنگ متن سفید */
+        border-radius: 20px; /* کرو شدن گوشه‌ها */
+        display: flex; /* برای مرکز کردن متن */
+        justify-content: center; /* افقی مرکز */
+        align-items: center; /* عمودی مرکز */
+        font-family: var(--fontFamily); /* فونت ساده */
+        font-size: 12px; /* اندازه متن */
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* سایه */
+        cursor: pointer; /* اشاره‌گر دست */
+        padding: 10px;
+        z-index: 9999;
+        span{
+            font-family: var(--fontFamily);
+            display: inline-block;
+            width: 1px;
+            height: 25px;
+            background-color: rgb(238, 236, 236);
+        }
+    }
+    }
+.suport-sticky{
+        width: 100%;
+        height: 100%; 
+        .suport-sticky-item{
+            position: fixed;
+            flex-direction: row-reverse;
+            bottom: 10px; /* فاصله از پایین */
+            left: 1450px; /* فاصله از سمت چپ */
+            width: 50px; /* طول */
+            height: 50px; /* عرض */
+            background-color: #d32f2f; /* رنگ سبز */
+            color: white; /* رنگ متن سفید */
+            border-radius: 50px; /* کرو شدن گوشه‌ها */
+            display: flex; /* برای مرکز کردن متن */
+            justify-content: center; /* افقی مرکز */
+            align-items: center; /* عمودی مرکز */
+            font-family: var(--fontFamily); /* فونت ساده */
+            font-size: 12px; /* اندازه متن */
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* سایه */
+            cursor: pointer; /* اشاره‌گر دست */
+            padding: 10px;
+            z-index: 9999;
+            span{
+                font-family: var(--fontFamily);
+                display: inline-block;
+                width: 1px;
+                height: 25px;
+                background-color: rgb(238, 236, 236);
+            }
+        }
+        }
+    

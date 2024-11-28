@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: Yekan;
+  src: url(../../fonts/IRANYekanWeb-Bold.eot);
+  src: url(../../fonts/IRANYekanWeb-Bold.ttf);
+  src: url(../../fonts/IRANYekanWeb-Bold.woff);
+  src: url(../../fonts/IRANYekanWeb-Bold.woff2);
+}
+@font-face {
+  font-family: Number;
+  src: url(../../fonts/B\ Elham_0.ttf);
+}
+:root {
+  --fontFamily: Yekan;
+  --fontNumber: Number;
+}
+.wrapper {
+  width: 100%;
+}
+.swiper-button-prev,
+.swiper-rtl .swiper-button-next {
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  border-radius: 50%;
+  border: 1px solid lightgrey;
+
+}
+.swiper-button-prev:after,
+.swiper-rtl .swiper-button-next:after {
+  font-size: 12px;
+  color: #2b2b2b;
+  font-weight: bold;
+}
+.swiper-button-next.swiper-button-disabled,
+.swiper-button-prev.swiper-button-disabled {
+  opacity: 0;
+}
+.swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet,
+.swiper-pagination-horizontal.swiper-pagination-bullets
+  .swiper-pagination-bullet {
+  width: 5px;
+  height: 5px;
+  background-color: #2b2b2b;
+  transition: 300ms;
+}
+
+.swiper-pagination-bullet-active {
+  width: 20px !important;
+  height: 5px;
+  border-radius: 3px;
+  background-color: white !important;
+}

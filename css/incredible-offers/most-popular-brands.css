@@ -1,0 +1,74 @@
+.most-popular-brands {
+    width: 100%;
+    height: 230px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    .most-popular-brands-center {
+        width: 90%;
+        height: 100%;
+        justify-content: center;
+        border: 1px solid #f1f1f0; 
+        box-sizing: border-box; 
+        border-radius: 10px;
+        .most-popular-brands-center-title {
+            width: 100%;
+            height: 75px;
+            display: flex;
+            box-sizing: border-box;
+            justify-content: center;
+            align-items: center;
+            font-family: var(--fontFamily);
+            color: #0c0c0c;
+        }
+
+        .swiper {
+            width: 100%;
+            height: 100%;
+        }
+
+        .swiper-slide {
+            width: inherit;
+            height: 150px;
+            text-align: center;
+            background: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            .swiper-slider-item {
+                width: inherit;
+                height: 100%;
+                padding-top: 20px;
+                text-align: center;
+                justify-content: center;
+                display: flex;
+
+                .most-popular-brands-span {
+                    display: inline-block;
+                    width: 2px;
+                    height: 112px;
+                    background-color: #f0f0f1;
+                }
+
+                img {
+                    width: 115px;
+                    height: 115px;
+                    margin-bottom: 20px;
+                    display: flex;
+                    margin: 0 auto;
+                    cursor: pointer;
+                }
+            }
+        }
+
+        .swiper-slide img {
+            display: block;
+            width: 100%;
+            height: 100%;
+            margin-left: 0px;
+            object-fit: cover;
+        }
+    }
+}

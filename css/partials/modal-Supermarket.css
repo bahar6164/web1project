@@ -1,0 +1,159 @@
+
+.modal-background-Supermarket{
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background-color: rgba(0, 0, 0, 0.1); /* پس‌زمینه نیمه‌شفاف */
+    justify-content: center;
+    align-items: center;
+}
+
+        /* استایل برای محتوای مودال */
+.modal-content {
+            width: 480px;
+            height: 280px;
+            background-color: white;
+
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+
+        .modal-content-top{  
+                width: 100%;
+                height: 70px;
+                display: flex;
+                border: none;
+                .modal-content-top-right{
+                width: 70%;
+                height: 100%;
+                display: flex;
+                flex-flow: column;
+                padding-right: 10px;
+                font-size: 12px;
+                font-family: var(--fontFamily);
+                color: #0c0c0c;
+                }
+                p{
+                    padding-top: 10px;
+                    color: #a1a3a8;
+                }
+                .modal-content-top-left{
+                    width: 30%;
+                    height: 100%;
+                    display: flex;
+                    justify-content: flex-end;
+                    box-sizing: border-box;
+                    padding: 8px 16px;
+                    color: #424750;
+                    cursor: pointer;
+                    .nav-svg{
+                        display: flex;
+                        margin-left: 4px;
+                    }
+                }
+        }   
+        .modal-content-body{
+            width:100%;
+            height: 280px;
+            max-height: 530px;
+            background-color: white;
+            padding: 20px;
+            padding-top: 40px;
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+        .modal-supermarket-discount{
+            width: 48%;
+            height: 250px;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: rgb(219, 243, 230);
+            .modal-supermarket-discount-tiltle{
+                width:100%;
+                height: 40px; 
+                font-family: var(--fontFamily);
+            }
+            .modal-supermarket-discount-send{
+            width:100px;
+            height: 30px; 
+            display: flex;
+            border-radius:20px 0 20px 20px  ;
+            background-color: green;
+            font-family: var(--fontFamily);
+            font-size: 12px;
+            justify-content: center;
+            align-items: center;
+          
+        }
+        .modal-supermarket-discount-image{
+            width: 100%;
+            height: 250px;
+            padding-top: 40px;
+            padding-right: 70px;
+            border-radius: 10px;
+        
+        img{
+            width: 120px;
+            height: 91px;
+            border-radius: 10px;
+
+        }
+        }
+    }
+
+        
+        
+        .modal-supermarket-experss{
+            width: 48%;
+            height: 250px;
+            padding: 20px;
+            border-radius: 10px;
+            background-color:rgb(254, 235, 222);
+            .modal-supermarket-experss-tiltle{
+                width:100%;
+                height: 40px; 
+                font-family: var(--fontFamily);
+            }
+            .modal-supermarket-experss-send{
+            width:100px;
+            height: 30px; 
+            display: flex;
+            border-radius:20px 0 20px 20px  ;
+            background-color: green;
+            font-family: var(--fontFamily);
+            font-size: 12px;
+            justify-content: center;
+            align-items: center;
+          
+        }
+        .modal-supermarket-experss-image{
+            width: 100%;
+            height: 250px;
+            padding-top: 40px;
+            padding-right: 70px;
+            border-radius: 10px;
+            img{
+                width: 120px;
+                height: 91px;
+                border-radius: 10px;
+    
+            }
+        }
+
+        }
+
+        }  }
+
+        /* نمایش مودال وقتی چک‌باکس فعال است */
+        #modal-checkbox-supermarket:checked~ .modal-background-Supermarket{
+            display: flex;
+        }
+
+
+
+       
